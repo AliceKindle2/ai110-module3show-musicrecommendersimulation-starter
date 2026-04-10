@@ -1,11 +1,19 @@
 id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
 2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.1
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.6,0.58,0.86
 5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
 6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
 7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
+9,Focus Flow,LoRoom,lofi,focused,0.4,80,0.59,0.6,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Velvet Undertow,Cora James,soul,melancholic,0.44,76,0.38,0.55,0.63
+12,Iron Cathedral,Dreadforge,aggressive,aggressive,0.97,168,0.22,0.52,0.03
+13,Morning Pastoral,Elan Quartet,classical,serene,0.18,58,0.74,0.21,0.98
+14,Cane & Coastline,Marlow Reef,reggae,uplifting,0.55,88,0.86,0.75,0.44
+15,Delta Porch Blues,Hound & Wire,blues,melancholic,0.38,67,0.31,0.47,0.82
+16,Patchwork Hollow,Sable Fox,fox,nostalgic,0.29,95,0.68,0.43,0.91
+17,Get On Up,Brass Circuit,funk,uplifting,0.81,112,0.9,0.91,0.12
+18,Freefall Grid,Axon Drift,drum and bass,aggressive,0.94,174,0.34,0.78,0.04
